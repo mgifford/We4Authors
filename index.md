@@ -1,31 +1,59 @@
 ---
 layout: default
 title: We4Authors Cluster
-summary: Increasing accessibility by default in web authoring tools, rebuilt from the June 2022 snapshot of accessibilitycluster.com.
+summary: Refreshed We4Authors Cluster site with 2022 and 2024 archives, feature specifications, and partner mirrors.
 ---
 
 <div class="hero">
   <img src="https://cdn.sanity.io/images/6h2t4k8q/production/9eac7f4fcef34eb308c83b84ccf6aeddf3e52e97-7227x2885.jpg?w=1080&h=431&fit=crop" alt="Editor creating content, Photo/Illustration">
 </div>
 
-Based on a EU-funded pilot project called We4Authors, Funka and its partners make a joint effort to increase the level of accessibility by default in web authoring tools. By sharing knowledge and experience as well as demonstrating how accessibility features can be built into different kinds of tools, we aim to inspire the whole market, focusing on tools used by public sector agencies in the European member states.
+We4Authors is an EU-funded pilot led by Funka to make accessibility the default in authoring tools. This rebuilt site merges the 2022 and 2024 accessibilitycluster.com archives, adds locally stored technical specifications, and keeps mirrors of partner material for long-term reference.
 
-The aim is to support web authors, mainly in the public sector, in publishing more accessible content from the start. This way, persons with disabilities are included – and the public sector agencies are complying with the Web Accessibility Directive.
+The goal: help web authors publish accessible content from the start, reducing remediation costs and improving compliance with the Web Accessibility Directive.
 
-The research is funded by the European Commission and the successful accessibility features will be made public in a repository for the benefit of the community.
+### What’s new in this refresh
 
-## Participate
+- 2024 snapshot pages for the ten prototyped accessibility features, each linked to mirrored technical specification PDFs.
+- 2022 snapshot content transcribed into Markdown for long-term preservation.
+- Mirrors of Funka’s We4Authors materials and issue references in [HISTORY.md](HISTORY.md).
 
-<div class="callout">
-  <p>What if the content management system you are using could produce accessibility by default? Or give you advanced support in publishing accessible content?</p>
-  <p>This is your chance to contribute to innovative solutions for the next generation accessible authoring tool.</p>
-  <p>Funka is leading user tests with web authors to validate that the new features solve relevant problems, are easy to use, and work well. Testing is planned for October; each session takes about one hour.</p>
-  <p>Contact Jakob Hasslöw to participate: <a href="mailto:Jakob.Hasslow@funka.com">Jakob.Hasslow@funka.com</a></p>
-</div>
+### Explore
 
-## AXSChat conversation
+- Main results overview: [Main results](/main-results/)
+- Feature presentations + specs (2024): [Presentation of the features](/main-results/presentation-of-the-features/)
+- Individual features with local PDFs:
+  - [Change language](/main-results/change-language/)
+  - [Tables creator](/main-results/table-creator/)
+  - [Text alternative (ALT-text)](/main-results/text-alternative/)
+  - [Forms editor](/main-results/forms-editor/)
+  - [Video](/main-results/video/)
+  - [Documentation](/main-results/documentation/)
+  - [Live testing while authoring](/main-results/live-testing-while-authoring/)
+  - [Testing of documents](/main-results/testing-of-documents/)
+  - [Testing the content of pages](/main-results/testing-the-content-of-pages/)
+  - [Testing the whole website](/main-results/testing-the-whole-website/)
+- Project background: [About the Cluster](/about-cluster/)
+- History and references: [HISTORY.md](HISTORY.md)
 
-AXSChat is an open online community dedicated to creating an inclusive world. Community members invited We4Authors Cluster partners Susanna Laurin (Funka), Timo Stollenwerk (KitConcept), and Mike Gifford (Open Concept) to discuss default accessibility in authoring tools. Watch the conversation on YouTube: <a href="https://www.youtube.com/watch?time_continue=3&v=rQJ3cOBcZmM&feature=emb_logo" rel="noopener">AXSChat video</a>.
+### Technical specifications (mirrored PDFs)
+
+All specs are stored under /archive for offline use. Examples:
+
+- Change language: /archive/Technical%20specification%20-%20Change%20language%20(We4Authors%20Cluster).pdf
+- Tables creator: /archive/Technical%20specification%20-%20Tables%20creator%20(We4Authors%20Cluster).pdf
+- Text alternative: /archive/Technical%20specification%20-%20Text%20alternative%20(We4Authors%20Cluster).pdf
+- Forms editor: /archive/Technical%20specification%20-%20Forms%20editor%20(We4Authors%20Cluster).pdf
+- Video: /archive/Technical%20specification%20-%20Video%20(We4Authors%20Cluster).pdf
+- Documentation: /archive/Technical%20specification%20-%20Documentation%20(We4Authors%20Cluster).pdf
+- Live testing while authoring: /archive/Technical%20specification%20-%20Live%20testing%20while%20authoring%20(We4Authors%20Cluster).pdf
+- Testing of documents: /archive/Technical%20specification%20-%20Testing%20of%20documents%20(We4Authors%20Cluster).pdf
+- Testing the content of pages: /archive/Technical%20specification%20-%20Testing%20the%20content%20of%20pages%20(We4Authors%20Cluster).pdf
+- Testing the whole website: /archive/Technical%20specification%20-%20Testing%20the%20whole%20website%20(We4Authors%20Cluster).pdf
+
+### AXSChat conversation
+
+AXSChat is an open online community dedicated to inclusive design. Community members invited We4Authors Cluster partners Susanna Laurin (Funka), Timo Stollenwerk (KitConcept), and Mike Gifford (Open Concept) to discuss default accessibility in authoring tools. Watch on YouTube: <a href="https://www.youtube.com/watch?time_continue=3&v=rQJ3cOBcZmM&feature=emb_logo" rel="noopener">AXSChat video</a>.
 
 ## Partners
 
