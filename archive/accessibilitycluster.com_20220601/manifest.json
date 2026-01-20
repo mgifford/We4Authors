@@ -1,0 +1,2225 @@
+{
+  "domain": "accessibilitycluster.com",
+  "cutoff_ts": "20220601235959",
+  "pages": [
+    {
+      "original": "https://accessibilitycluster.com/",
+      "timestamp": "20200721005354",
+      "local": "index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/96d0eaa933309833a2d16f32987dec34e3ad7144-99e36682b4e227e7d354.js",
+          "local": "96d0eaa933309833a2d16f32987dec34e3ad7144-99e36682b4e227e7d354.js",
+          "ok": false,
+          "content_type": "text/html; charset=utf-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/app-b94943d172b6874d0313.js",
+          "local": "app-b94943d172b6874d0313.js",
+          "ok": false,
+          "content_type": "text/html; charset=utf-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-9d7f158f45cdd7015cb9.js",
+          "local": "commons-9d7f158f45cdd7015cb9.js",
+          "ok": false,
+          "content_type": "text/html; charset=utf-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-pages-index-js-84a86510583cb15af9d4.js",
+          "local": "component---src-pages-index-js-84a86510583cb15af9d4.js",
+          "ok": false,
+          "content_type": "text/html; charset=utf-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-d18255661b01063664e4.js",
+          "local": "framework-d18255661b01063664e4.js",
+          "ok": false,
+          "content_type": "text/html; charset=utf-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-f12963b3798c232a68f6.js",
+          "local": "styles-f12963b3798c232a68f6.js",
+          "ok": true,
+          "content_type": "application/javascript"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-aab33f01d8d1b38ec6de.js",
+          "local": "webpack-runtime-aab33f01d8d1b38ec6de.js",
+          "ok": false,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/about-cluster/",
+      "timestamp": "20210415234338",
+      "local": "about-cluster/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-0e3db4c4c9a90d27fc27.js",
+          "local": "commons-0e3db4c4c9a90d27fc27.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-c550a0daaad33a181219.js",
+          "local": "component---src-templates-page-js-c550a0daaad33a181219.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-2a72ae1a48b4d05409c6.js",
+          "local": "webpack-runtime-2a72ae1a48b4d05409c6.js",
+          "ok": false,
+          "content_type": "text/html"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/about-the-project/",
+      "timestamp": "20201126011843",
+      "local": "about-the-project/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/90b6037a102e54f8f4bab0d6392548cecf2a1cd2-99e36682b4e227e7d354.js",
+          "local": "90b6037a102e54f8f4bab0d6392548cecf2a1cd2-99e36682b4e227e7d354.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/app-eec048124d63d35749f8.js",
+          "local": "app-eec048124d63d35749f8.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-f74c185f14ef53d23cea.js",
+          "local": "commons-f74c185f14ef53d23cea.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-e8775e268ab808d5c6d7.js",
+          "local": "component---src-templates-page-js-e8775e268ab808d5c6d7.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-4f6f95a87e6130d5bbab.js",
+          "local": "framework-4f6f95a87e6130d5bbab.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-f12963b3798c232a68f6.js",
+          "local": "styles-f12963b3798c232a68f6.js",
+          "ok": true,
+          "content_type": "application/javascript"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-ee2e20bb739c4e8978a8.js",
+          "local": "webpack-runtime-ee2e20bb739c4e8978a8.js",
+          "ok": false,
+          "content_type": "text/html"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+      "timestamp": "20210902174411",
+      "local": "app-333a83dddceb1d553950.js",
+      "assets": [],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/authoringtool/",
+      "timestamp": "20200928164536",
+      "local": "authoringtool/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/127af045a3358ef7a401bba86ac61d73213c39a3-99e36682b4e227e7d354.js",
+          "local": "127af045a3358ef7a401bba86ac61d73213c39a3-99e36682b4e227e7d354.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/app-a29d9917312bc5dfea82.js",
+          "local": "app-a29d9917312bc5dfea82.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-06f7d4de76cf16ea16ea.js",
+          "local": "commons-06f7d4de76cf16ea16ea.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-pages-authoring-tool-js-98f48db1b28929f1d1d7.js",
+          "local": "component---src-pages-authoring-tool-js-98f48db1b28929f1d1d7.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8770a85f31e633ae9ae0.js",
+          "local": "framework-8770a85f31e633ae9ae0.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-f12963b3798c232a68f6.js",
+          "local": "styles-f12963b3798c232a68f6.js",
+          "ok": true,
+          "content_type": "application/javascript"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-d95efe84d15a9befd962.js",
+          "local": "webpack-runtime-d95efe84d15a9befd962.js",
+          "ok": false,
+          "content_type": "text/html"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/blogs-&-events/",
+      "timestamp": "20210415225230",
+      "local": "blogs-&-events/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-0e3db4c4c9a90d27fc27.js",
+          "local": "commons-0e3db4c4c9a90d27fc27.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-c550a0daaad33a181219.js",
+          "local": "component---src-templates-page-js-c550a0daaad33a181219.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-2a72ae1a48b4d05409c6.js",
+          "local": "webpack-runtime-2a72ae1a48b4d05409c6.js",
+          "ok": false,
+          "content_type": "text/html"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/blogs-&-events/articles-and-blogs/",
+      "timestamp": "20210415233253",
+      "local": "blogs-&-events/articles-and-blogs/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-0e3db4c4c9a90d27fc27.js",
+          "local": "commons-0e3db4c4c9a90d27fc27.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-c550a0daaad33a181219.js",
+          "local": "component---src-templates-page-js-c550a0daaad33a181219.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-2a72ae1a48b4d05409c6.js",
+          "local": "webpack-runtime-2a72ae1a48b4d05409c6.js",
+          "ok": false,
+          "content_type": "text/html"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/blogs-&-events/consultations-with-industry/",
+      "timestamp": "20210617143527",
+      "local": "blogs-&-events/consultations-with-industry/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-0e3db4c4c9a90d27fc27.js",
+          "local": "commons-0e3db4c4c9a90d27fc27.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-c550a0daaad33a181219.js",
+          "local": "component---src-templates-page-js-c550a0daaad33a181219.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-67b4d5004c0ff7186adf.js",
+          "local": "webpack-runtime-67b4d5004c0ff7186adf.js",
+          "ok": false,
+          "content_type": "text/html"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/blogs-&-events/demonstration-event/",
+      "timestamp": "20210625103550",
+      "local": "blogs-&-events/demonstration-event/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-0e3db4c4c9a90d27fc27.js",
+          "local": "commons-0e3db4c4c9a90d27fc27.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-c550a0daaad33a181219.js",
+          "local": "component---src-templates-page-js-c550a0daaad33a181219.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-67b4d5004c0ff7186adf.js",
+          "local": "webpack-runtime-67b4d5004c0ff7186adf.js",
+          "ok": false,
+          "content_type": "text/html"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/blogs-&-events/external-events/",
+      "timestamp": "20210415224327",
+      "local": "blogs-&-events/external-events/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-0e3db4c4c9a90d27fc27.js",
+          "local": "commons-0e3db4c4c9a90d27fc27.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-c550a0daaad33a181219.js",
+          "local": "component---src-templates-page-js-c550a0daaad33a181219.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-2a72ae1a48b4d05409c6.js",
+          "local": "webpack-runtime-2a72ae1a48b4d05409c6.js",
+          "ok": false,
+          "content_type": "text/html"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/blogs-&-events/interactive-workshop-for-public-sector-web-authors,-1st-june-2021/",
+      "timestamp": "20210625095307",
+      "local": "blogs-&-events/interactive-workshop-for-public-sector-web-authors,-1st-june-2021/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-0e3db4c4c9a90d27fc27.js",
+          "local": "commons-0e3db4c4c9a90d27fc27.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-c550a0daaad33a181219.js",
+          "local": "component---src-templates-page-js-c550a0daaad33a181219.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-67b4d5004c0ff7186adf.js",
+          "local": "webpack-runtime-67b4d5004c0ff7186adf.js",
+          "ok": false,
+          "content_type": "text/html"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/blogs-&-events/pre-gaad-event-19-may-2021-at-13:00-16:00-cet---authoring-tools-with-built-in-accessibility/",
+      "timestamp": "20210625090124",
+      "local": "blogs-&-events/pre-gaad-event-19-may-2021-at-13:00-16:00-cet---authoring-tools-with-built-in-accessibility/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-0e3db4c4c9a90d27fc27.js",
+          "local": "commons-0e3db4c4c9a90d27fc27.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-c550a0daaad33a181219.js",
+          "local": "component---src-templates-page-js-c550a0daaad33a181219.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-67b4d5004c0ff7186adf.js",
+          "local": "webpack-runtime-67b4d5004c0ff7186adf.js",
+          "ok": false,
+          "content_type": "text/html"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/blogs-&-events/social-media/",
+      "timestamp": "20210415225420",
+      "local": "blogs-&-events/social-media/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-0e3db4c4c9a90d27fc27.js",
+          "local": "commons-0e3db4c4c9a90d27fc27.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-c550a0daaad33a181219.js",
+          "local": "component---src-templates-page-js-c550a0daaad33a181219.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-2a72ae1a48b4d05409c6.js",
+          "local": "webpack-runtime-2a72ae1a48b4d05409c6.js",
+          "ok": false,
+          "content_type": "text/html"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/blogs-&-events/video-interview/",
+      "timestamp": "20210416001718",
+      "local": "blogs-&-events/video-interview/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-0e3db4c4c9a90d27fc27.js",
+          "local": "commons-0e3db4c4c9a90d27fc27.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-c550a0daaad33a181219.js",
+          "local": "component---src-templates-page-js-c550a0daaad33a181219.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-2a72ae1a48b4d05409c6.js",
+          "local": "webpack-runtime-2a72ae1a48b4d05409c6.js",
+          "ok": false,
+          "content_type": "text/html"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/blogs-&-events/welcome-to-the-funka-%E2%80%93-edf-digital-accessibility-update/",
+      "timestamp": "20210625100926",
+      "local": "blogs-&-events/welcome-to-the-funka-%E2%80%93-edf-digital-accessibility-update/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-0e3db4c4c9a90d27fc27.js",
+          "local": "commons-0e3db4c4c9a90d27fc27.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-c550a0daaad33a181219.js",
+          "local": "component---src-templates-page-js-c550a0daaad33a181219.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-67b4d5004c0ff7186adf.js",
+          "local": "webpack-runtime-67b4d5004c0ff7186adf.js",
+          "ok": false,
+          "content_type": "text/html"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/commons-0e3db4c4c9a90d27fc27.js",
+      "timestamp": "20210902174420",
+      "local": "commons-0e3db4c4c9a90d27fc27.js",
+      "assets": [],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/commons-5cefc3b781f6228d072d.js",
+      "timestamp": "20220119041811",
+      "local": "commons-5cefc3b781f6228d072d.js",
+      "assets": [],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/component---src-pages-index-js-821e569f11c3b7c3b406.js",
+      "timestamp": "20220116171042",
+      "local": "component---src-pages-index-js-821e569f11c3b7c3b406.js",
+      "assets": [],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/component---src-pages-invitation-js-a960060dfbd3753cdd3f.js",
+      "timestamp": "20201005205455",
+      "local": "component---src-pages-invitation-js-a960060dfbd3753cdd3f.js",
+      "assets": [],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/component---src-templates-page-js-31a521f9e744a84ecb5f.js",
+      "timestamp": "20220112184037",
+      "local": "component---src-templates-page-js-31a521f9e744a84ecb5f.js",
+      "assets": [],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/component---src-templates-page-js-f36a9833e2d26e8bb9f3.js",
+      "timestamp": "20210902174528",
+      "local": "component---src-templates-page-js-f36a9833e2d26e8bb9f3.js",
+      "assets": [],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/contact-us/",
+      "timestamp": "20201126002155",
+      "local": "contact-us/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/90b6037a102e54f8f4bab0d6392548cecf2a1cd2-99e36682b4e227e7d354.js",
+          "local": "90b6037a102e54f8f4bab0d6392548cecf2a1cd2-99e36682b4e227e7d354.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/app-eec048124d63d35749f8.js",
+          "local": "app-eec048124d63d35749f8.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-f74c185f14ef53d23cea.js",
+          "local": "commons-f74c185f14ef53d23cea.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-e8775e268ab808d5c6d7.js",
+          "local": "component---src-templates-page-js-e8775e268ab808d5c6d7.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-4f6f95a87e6130d5bbab.js",
+          "local": "framework-4f6f95a87e6130d5bbab.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-f12963b3798c232a68f6.js",
+          "local": "styles-f12963b3798c232a68f6.js",
+          "ok": true,
+          "content_type": "application/javascript"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-ee2e20bb739c4e8978a8.js",
+          "local": "webpack-runtime-ee2e20bb739c4e8978a8.js",
+          "ok": false,
+          "content_type": "text/html"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+      "timestamp": "20210902174429",
+      "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+      "assets": [],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+      "timestamp": "20210902174408",
+      "local": "framework-8e528b732ab2eaadb7b7.js",
+      "assets": [],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/main-results/",
+      "timestamp": "20210415223448",
+      "local": "main-results/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-0e3db4c4c9a90d27fc27.js",
+          "local": "commons-0e3db4c4c9a90d27fc27.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-c550a0daaad33a181219.js",
+          "local": "component---src-templates-page-js-c550a0daaad33a181219.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-2a72ae1a48b4d05409c6.js",
+          "local": "webpack-runtime-2a72ae1a48b4d05409c6.js",
+          "ok": false,
+          "content_type": "text/html"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/main-results/change-language/",
+      "timestamp": "20210803115136",
+      "local": "main-results/change-language/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-0e3db4c4c9a90d27fc27.js",
+          "local": "commons-0e3db4c4c9a90d27fc27.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-f36a9833e2d26e8bb9f3.js",
+          "local": "component---src-templates-page-js-f36a9833e2d26e8bb9f3.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-ccdd3260559331bfc090.js",
+          "local": "webpack-runtime-ccdd3260559331bfc090.js",
+          "ok": false,
+          "content_type": "text/html"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/main-results/demonstration-event/",
+      "timestamp": "20210415222432",
+      "local": "main-results/demonstration-event/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-0e3db4c4c9a90d27fc27.js",
+          "local": "commons-0e3db4c4c9a90d27fc27.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-c550a0daaad33a181219.js",
+          "local": "component---src-templates-page-js-c550a0daaad33a181219.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-2a72ae1a48b4d05409c6.js",
+          "local": "webpack-runtime-2a72ae1a48b4d05409c6.js",
+          "ok": false,
+          "content_type": "text/html"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/main-results/documentation/",
+      "timestamp": "20210827221512",
+      "local": "main-results/documentation/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-0e3db4c4c9a90d27fc27.js",
+          "local": "commons-0e3db4c4c9a90d27fc27.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-f36a9833e2d26e8bb9f3.js",
+          "local": "component---src-templates-page-js-f36a9833e2d26e8bb9f3.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-5f691a6932de44071fb0.js",
+          "local": "webpack-runtime-5f691a6932de44071fb0.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/main-results/forms-editor/",
+      "timestamp": "20210826130803",
+      "local": "main-results/forms-editor/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-0e3db4c4c9a90d27fc27.js",
+          "local": "commons-0e3db4c4c9a90d27fc27.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-f36a9833e2d26e8bb9f3.js",
+          "local": "component---src-templates-page-js-f36a9833e2d26e8bb9f3.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-5f691a6932de44071fb0.js",
+          "local": "webpack-runtime-5f691a6932de44071fb0.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/main-results/further-guidance/",
+      "timestamp": "20210927124908",
+      "local": "main-results/further-guidance/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-5cefc3b781f6228d072d.js",
+          "local": "commons-5cefc3b781f6228d072d.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-31a521f9e744a84ecb5f.js",
+          "local": "component---src-templates-page-js-31a521f9e744a84ecb5f.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-76e15354e9552807abed.js",
+          "local": "webpack-runtime-76e15354e9552807abed.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/main-results/live-testing-while-authoring/",
+      "timestamp": "20210828135753",
+      "local": "main-results/live-testing-while-authoring/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-0e3db4c4c9a90d27fc27.js",
+          "local": "commons-0e3db4c4c9a90d27fc27.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-f36a9833e2d26e8bb9f3.js",
+          "local": "component---src-templates-page-js-f36a9833e2d26e8bb9f3.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-5f691a6932de44071fb0.js",
+          "local": "webpack-runtime-5f691a6932de44071fb0.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/main-results/pre-gaad-event-19-may-2021-at-13:00-16:00-cet---authoring-tools-with-built-in-accessibility!/",
+      "timestamp": "20210509155700",
+      "local": "main-results/pre-gaad-event-19-may-2021-at-13:00-16:00-cet---authoring-tools-with-built-in-accessibility!/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-0e3db4c4c9a90d27fc27.js",
+          "local": "commons-0e3db4c4c9a90d27fc27.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-c550a0daaad33a181219.js",
+          "local": "component---src-templates-page-js-c550a0daaad33a181219.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-67b4d5004c0ff7186adf.js",
+          "local": "webpack-runtime-67b4d5004c0ff7186adf.js",
+          "ok": false,
+          "content_type": "text/html"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/main-results/presentation-of-features/",
+      "timestamp": "20210803110030",
+      "local": "main-results/presentation-of-features/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-0e3db4c4c9a90d27fc27.js",
+          "local": "commons-0e3db4c4c9a90d27fc27.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-f36a9833e2d26e8bb9f3.js",
+          "local": "component---src-templates-page-js-f36a9833e2d26e8bb9f3.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-ccdd3260559331bfc090.js",
+          "local": "webpack-runtime-ccdd3260559331bfc090.js",
+          "ok": false,
+          "content_type": "text/html"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/main-results/presentation-of-the-features/",
+      "timestamp": "20210819123954",
+      "local": "main-results/presentation-of-the-features/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-0e3db4c4c9a90d27fc27.js",
+          "local": "commons-0e3db4c4c9a90d27fc27.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-f36a9833e2d26e8bb9f3.js",
+          "local": "component---src-templates-page-js-f36a9833e2d26e8bb9f3.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-5f691a6932de44071fb0.js",
+          "local": "webpack-runtime-5f691a6932de44071fb0.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/main-results/selection-of-features/",
+      "timestamp": "20210415222607",
+      "local": "main-results/selection-of-features/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-0e3db4c4c9a90d27fc27.js",
+          "local": "commons-0e3db4c4c9a90d27fc27.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-c550a0daaad33a181219.js",
+          "local": "component---src-templates-page-js-c550a0daaad33a181219.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-2a72ae1a48b4d05409c6.js",
+          "local": "webpack-runtime-2a72ae1a48b4d05409c6.js",
+          "ok": false,
+          "content_type": "text/html"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/main-results/table-creator/",
+      "timestamp": "20210803114212",
+      "local": "main-results/table-creator/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-0e3db4c4c9a90d27fc27.js",
+          "local": "commons-0e3db4c4c9a90d27fc27.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-f36a9833e2d26e8bb9f3.js",
+          "local": "component---src-templates-page-js-f36a9833e2d26e8bb9f3.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-ccdd3260559331bfc090.js",
+          "local": "webpack-runtime-ccdd3260559331bfc090.js",
+          "ok": false,
+          "content_type": "text/html"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/main-results/testing-of-documents/",
+      "timestamp": "20210828204656",
+      "local": "main-results/testing-of-documents/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-0e3db4c4c9a90d27fc27.js",
+          "local": "commons-0e3db4c4c9a90d27fc27.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-f36a9833e2d26e8bb9f3.js",
+          "local": "component---src-templates-page-js-f36a9833e2d26e8bb9f3.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-5f691a6932de44071fb0.js",
+          "local": "webpack-runtime-5f691a6932de44071fb0.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/main-results/testing-the-content-of-pages/",
+      "timestamp": "20210829204822",
+      "local": "main-results/testing-the-content-of-pages/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-0e3db4c4c9a90d27fc27.js",
+          "local": "commons-0e3db4c4c9a90d27fc27.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-f36a9833e2d26e8bb9f3.js",
+          "local": "component---src-templates-page-js-f36a9833e2d26e8bb9f3.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-5f691a6932de44071fb0.js",
+          "local": "webpack-runtime-5f691a6932de44071fb0.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/main-results/testing-the-whole-website/",
+      "timestamp": "20210830135351",
+      "local": "main-results/testing-the-whole-website/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-0e3db4c4c9a90d27fc27.js",
+          "local": "commons-0e3db4c4c9a90d27fc27.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-f36a9833e2d26e8bb9f3.js",
+          "local": "component---src-templates-page-js-f36a9833e2d26e8bb9f3.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-5f691a6932de44071fb0.js",
+          "local": "webpack-runtime-5f691a6932de44071fb0.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/main-results/text-alternative-feature-%E2%80%93-presentation/",
+      "timestamp": "20210927134810",
+      "local": "main-results/text-alternative-feature-%E2%80%93-presentation/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-5cefc3b781f6228d072d.js",
+          "local": "commons-5cefc3b781f6228d072d.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-31a521f9e744a84ecb5f.js",
+          "local": "component---src-templates-page-js-31a521f9e744a84ecb5f.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-76e15354e9552807abed.js",
+          "local": "webpack-runtime-76e15354e9552807abed.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/main-results/user-needs/",
+      "timestamp": "20210415233126",
+      "local": "main-results/user-needs/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-0e3db4c4c9a90d27fc27.js",
+          "local": "commons-0e3db4c4c9a90d27fc27.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-c550a0daaad33a181219.js",
+          "local": "component---src-templates-page-js-c550a0daaad33a181219.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-2a72ae1a48b4d05409c6.js",
+          "local": "webpack-runtime-2a72ae1a48b4d05409c6.js",
+          "ok": false,
+          "content_type": "text/html"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/main-results/user-testing/",
+      "timestamp": "20210415222235",
+      "local": "main-results/user-testing/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-0e3db4c4c9a90d27fc27.js",
+          "local": "commons-0e3db4c4c9a90d27fc27.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-c550a0daaad33a181219.js",
+          "local": "component---src-templates-page-js-c550a0daaad33a181219.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-2a72ae1a48b4d05409c6.js",
+          "local": "webpack-runtime-2a72ae1a48b4d05409c6.js",
+          "ok": false,
+          "content_type": "text/html"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/main-results/video/",
+      "timestamp": "20210927122549",
+      "local": "main-results/video/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/app-333a83dddceb1d553950.js",
+          "local": "app-333a83dddceb1d553950.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-5cefc3b781f6228d072d.js",
+          "local": "commons-5cefc3b781f6228d072d.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-31a521f9e744a84ecb5f.js",
+          "local": "component---src-templates-page-js-31a521f9e744a84ecb5f.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "local": "dc6a8720040df98778fe970bf6c000a41750d3ae-2c1f5d113ac405375097.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-8e528b732ab2eaadb7b7.js",
+          "local": "framework-8e528b732ab2eaadb7b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+          "local": "polyfill-b4bf99e81997fe60d0b7.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+          "local": "styles-e9d24b1846c7d6eb9685.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-76e15354e9552807abed.js",
+          "local": "webpack-runtime-76e15354e9552807abed.js",
+          "ok": true,
+          "content_type": "application/javascript; charset=UTF-8"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/page-data/app-data.json",
+      "timestamp": "20200906195919",
+      "local": "page-data/app-data.json",
+      "assets": [],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/page-data/index/page-data.json",
+      "timestamp": "20200921184551",
+      "local": "page-data/index/page-data.json",
+      "assets": [],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/page-data/invitation/page-data.json",
+      "timestamp": "20201004230526",
+      "local": "page-data/invitation/page-data.json",
+      "assets": [],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/page-data/sq/d/1023117733.json",
+      "timestamp": "20220109134636",
+      "local": "page-data/sq/d/1023117733.json",
+      "assets": [],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/page-data/sq/d/3880939730.json",
+      "timestamp": "20220116181759",
+      "local": "page-data/sq/d/3880939730.json",
+      "assets": [],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/page-data/sq/d/4049921514.json",
+      "timestamp": "20220102091833",
+      "local": "page-data/sq/d/4049921514.json",
+      "assets": [],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/page-data/sq/d/4256545395.json",
+      "timestamp": "20220109134635",
+      "local": "page-data/sq/d/4256545395.json",
+      "assets": [],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/page-data/sq/d/881265296.json",
+      "timestamp": "20220113230519",
+      "local": "page-data/sq/d/881265296.json",
+      "assets": [],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/partners/",
+      "timestamp": "20201020222434",
+      "local": "partners/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/90b6037a102e54f8f4bab0d6392548cecf2a1cd2-99e36682b4e227e7d354.js",
+          "local": "90b6037a102e54f8f4bab0d6392548cecf2a1cd2-99e36682b4e227e7d354.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/app-eec048124d63d35749f8.js",
+          "local": "app-eec048124d63d35749f8.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-5622d275982a068bc4ab.js",
+          "local": "commons-5622d275982a068bc4ab.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-pages-partners-index-js-4998b0b7343feae64a58.js",
+          "local": "component---src-pages-partners-index-js-4998b0b7343feae64a58.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-4f6f95a87e6130d5bbab.js",
+          "local": "framework-4f6f95a87e6130d5bbab.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-f12963b3798c232a68f6.js",
+          "local": "styles-f12963b3798c232a68f6.js",
+          "ok": true,
+          "content_type": "application/javascript"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-de97809e01c7767547a7.js",
+          "local": "webpack-runtime-de97809e01c7767547a7.js",
+          "ok": false,
+          "content_type": "text/html"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/partners-advisors-subcontractors-and-third-parties/",
+      "timestamp": "20201126015431",
+      "local": "partners-advisors-subcontractors-and-third-parties/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/90b6037a102e54f8f4bab0d6392548cecf2a1cd2-99e36682b4e227e7d354.js",
+          "local": "90b6037a102e54f8f4bab0d6392548cecf2a1cd2-99e36682b4e227e7d354.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/app-eec048124d63d35749f8.js",
+          "local": "app-eec048124d63d35749f8.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-f74c185f14ef53d23cea.js",
+          "local": "commons-f74c185f14ef53d23cea.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-e8775e268ab808d5c6d7.js",
+          "local": "component---src-templates-page-js-e8775e268ab808d5c6d7.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-4f6f95a87e6130d5bbab.js",
+          "local": "framework-4f6f95a87e6130d5bbab.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-f12963b3798c232a68f6.js",
+          "local": "styles-f12963b3798c232a68f6.js",
+          "ok": true,
+          "content_type": "application/javascript"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-ee2e20bb739c4e8978a8.js",
+          "local": "webpack-runtime-ee2e20bb739c4e8978a8.js",
+          "ok": false,
+          "content_type": "text/html"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/polyfill-b4bf99e81997fe60d0b7.js",
+      "timestamp": "20210902181657",
+      "local": "polyfill-b4bf99e81997fe60d0b7.js",
+      "assets": [],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/static/SourceSansPro-Bold-8669b8706bbbdd1482e2fccc4ed96850.ttf",
+      "timestamp": "20210902174407",
+      "local": "static/SourceSansPro-Bold-8669b8706bbbdd1482e2fccc4ed96850.ttf",
+      "assets": [],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/static/SourceSansPro-Regular-c1678b46f7dd3f50ceac94ed4e0ad01a.ttf",
+      "timestamp": "20210902174512",
+      "local": "static/SourceSansPro-Regular-c1678b46f7dd3f50ceac94ed4e0ad01a.ttf",
+      "assets": [],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/static/SourceSansPro-SemiBold-83476a890be79f84e97b792c9c40d743.ttf",
+      "timestamp": "20210902174414",
+      "local": "static/SourceSansPro-SemiBold-83476a890be79f84e97b792c9c40d743.ttf",
+      "assets": [],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/static/undraw_hang_out_h9ud-105b57dfcb8c1bbff14a095db1d338b7.svg",
+      "timestamp": "20200914133400",
+      "local": "static/undraw_hang_out_h9ud-105b57dfcb8c1bbff14a095db1d338b7.svg",
+      "assets": [],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/static/undraw_online_connection_6778-3f22b792a98b164edc3ce4ebb643b18f.svg",
+      "timestamp": "20200926210210",
+      "local": "static/undraw_online_connection_6778-3f22b792a98b164edc3ce4ebb643b18f.svg",
+      "assets": [],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/styles-e9d24b1846c7d6eb9685.js",
+      "timestamp": "20210902174501",
+      "local": "styles-e9d24b1846c7d6eb9685.js",
+      "assets": [],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/styles-f12963b3798c232a68f6.js",
+      "timestamp": "20200921184549",
+      "local": "styles-f12963b3798c232a68f6.js",
+      "assets": [],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/we4authors-pilot-project/",
+      "timestamp": "20201126005449",
+      "local": "we4authors-pilot-project/index.html",
+      "assets": [
+        {
+          "url": "https://accessibilitycluster.com/90b6037a102e54f8f4bab0d6392548cecf2a1cd2-99e36682b4e227e7d354.js",
+          "local": "90b6037a102e54f8f4bab0d6392548cecf2a1cd2-99e36682b4e227e7d354.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/app-eec048124d63d35749f8.js",
+          "local": "app-eec048124d63d35749f8.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/commons-f74c185f14ef53d23cea.js",
+          "local": "commons-f74c185f14ef53d23cea.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/component---src-templates-page-js-e8775e268ab808d5c6d7.js",
+          "local": "component---src-templates-page-js-e8775e268ab808d5c6d7.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/framework-4f6f95a87e6130d5bbab.js",
+          "local": "framework-4f6f95a87e6130d5bbab.js",
+          "ok": false,
+          "content_type": "text/html"
+        },
+        {
+          "url": "https://accessibilitycluster.com/styles-f12963b3798c232a68f6.js",
+          "local": "styles-f12963b3798c232a68f6.js",
+          "ok": true,
+          "content_type": "application/javascript"
+        },
+        {
+          "url": "https://accessibilitycluster.com/webpack-runtime-ee2e20bb739c4e8978a8.js",
+          "local": "webpack-runtime-ee2e20bb739c4e8978a8.js",
+          "ok": false,
+          "content_type": "text/html"
+        }
+      ],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/webpack-runtime-5f691a6932de44071fb0.js",
+      "timestamp": "20210902174423",
+      "local": "webpack-runtime-5f691a6932de44071fb0.js",
+      "assets": [],
+      "fallbacks": 0
+    },
+    {
+      "original": "https://accessibilitycluster.com/webpack-runtime-76e15354e9552807abed.js",
+      "timestamp": "20220116171041",
+      "local": "webpack-runtime-76e15354e9552807abed.js",
+      "assets": [],
+      "fallbacks": 0
+    }
+  ]
+}
