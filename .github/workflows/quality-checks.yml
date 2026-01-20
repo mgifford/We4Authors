@@ -26,17 +26,7 @@ jobs:
         run: jekyll build
 
       - name: Link check (internal only, archives skipped)
-        run: |
-          htmlproofer './_site/index.html' \
-            './_site/about-cluster' \
-            './_site/authoringtool' \
-            './_site/blogs-&-events' \
-            './_site/contact-us' \
-            './_site/invitation' \
-            './_site/main-results' \
-            './_site/partners-advisors-subcontractors-and-third-parties' \
-            './_site/we4authors-pilot-project' \
-            --assume-extension --disable-external --ignore-urls '/archive/'
+        run: htmlproofer ./_site/index.html ./_site/about-cluster ./_site/authoringtool ./_site/blogs-&-events ./_site/contact-us ./_site/invitation ./_site/main-results ./_site/partners-advisors-subcontractors-and-third-parties ./_site/we4authors-pilot-project --assume-extension --disable-external --ignore-urls '/archive/'
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
