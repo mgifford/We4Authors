@@ -1,0 +1,43 @@
+name: Quality checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+
+      - name: Install Jekyll and html-proofer
+        run: |
+          gem install jekyll -v "~> 4.3" --no-document
+          gem install html-proofer --no-document
+
+      - name: Build site
+        run: jekyll build
+
+      - name: Link check (internal only)
+        run: htmlproofer ./_site --assume-extension --ignore-urls "/archive/" --disable-external
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install pa11y-ci toolchain
+        run: npm install -g pa11y-ci http-server wait-on
+
+      - name: Run accessibility audit
+        run: |
+          http-server _site -p 4000 >/dev/null 2>&1 &
+          wait-on http://localhost:4000
+          pa11y-ci

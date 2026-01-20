@@ -1,3 +1,4 @@
+---
 layout: default
 title: Authoring tool
 summary: Invitation to try new accessibility-by-default features in authoring tools.

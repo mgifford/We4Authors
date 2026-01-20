@@ -1,3 +1,4 @@
+---
 layout: default
 title: Main results
 summary: Overview of the Cluster’s accessibility-by-default features and supporting research.

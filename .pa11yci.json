@@ -1,0 +1,25 @@
+{
+  "defaults": {
+    "standard": "WCAG2AA",
+    "timeout": 60000,
+    "includeNotices": false,
+    "includeWarnings": true,
+    "chromeLaunchConfig": {
+      "args": ["--no-sandbox"]
+    }
+  },
+  "urls": [
+    "http://localhost:4000/",
+    "http://localhost:4000/about-cluster/",
+    "http://localhost:4000/main-results/",
+    "http://localhost:4000/invitation/",
+    "http://localhost:4000/blogs-&-events/",
+    "http://localhost:4000/partners-advisors-subcontractors-and-third-parties/",
+    "http://localhost:4000/authoringtool/",
+    "http://localhost:4000/we4authors-pilot-project/",
+    "http://localhost:4000/contact-us/",
+    "http://localhost:4000/main-results/presentation-of-the-features/",
+    "http://localhost:4000/main-results/live-testing-while-authoring/",
+    "http://localhost:4000/main-results/testing-the-whole-website/"
+  ]
+}

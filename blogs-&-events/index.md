@@ -1,3 +1,4 @@
+---
 layout: default
 title: Blogs & events
 summary: Outreach highlights, conference participation, and media coverage from the Cluster project.

@@ -1,3 +1,4 @@
+---
 layout: default
 title: Partners, advisors, subcontractors, and third parties
 summary: Consortium members, advisors, subcontractors, and third-party supporters of the Cluster project.
