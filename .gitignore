@@ -1,0 +1,14 @@
+# Jekyll build output
+_site/
+
+# Bundler and caches
+.bundle/
+.jekyll-cache/
+.sass-cache/
+.jekyll-metadata
+
+# Node
+node_modules/
+
+# OS files
+.DS_Store
