@@ -29,7 +29,7 @@ jobs:
         run: |
           rm -rf _site/archive _site/_site-archive
           ln -s . _site/We4Authors || true
-          htmlproofer ./_site --assume-extension --disable-external --checks-to-ignore External --ignore-urls '/archive/|HISTORY\.md'
+          htmlproofer ./_site --assume-extension --disable-external --ignore-urls '/archive/|HISTORY\.md|https://www\.funka\.com/en/we-offer/funka-accessibility-days/program-2020/|https://live\.df20\.nl/|https://www\.sitevision\.se/om-oss/traffa-oss/traffa-oss/2020-06-10-sa-forbereder-du-dig-infor-webbtillganglighetsdirektivet\.html'
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
