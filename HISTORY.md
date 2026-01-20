@@ -56,9 +56,11 @@ Publicly available references on **We4Authors** (“Pilot on web accessibility f
 
 ## Media, mirrors, and archived copies
 
+- YouTube overview (timestamp link): https://www.youtube.com/watch?v=rQJ3cOBcZmM&t=3s
+
 - EC Web Accessibility Expert Group page listing We4Authors outputs: https://digital-strategy.ec.europa.eu/en/library/seventh-meeting-web-accessibility-expert-group
 - Repo mirrors:
-	- Funka subtree captured 2026-01-20: [archive/funka.com_20260120/README.md](archive/funka.com_20260120/README.md)
+	- Funka subtree captured 2026-01-20 (includes an unclear “Best history” link that may need follow-up): [archive/funka.com_20260120/README.md](archive/funka.com_20260120/README.md)
 	- accessibilitycluster.com Gatsby export 2022-06-01: [archive/accessibilitycluster.com_20220601](archive/accessibilitycluster.com_20220601)
 	- accessibilitycluster.com snapshot 2024-03-03 (with technical specification PDFs linked locally): [archive/accessibilitycluster.com_20240303](archive/accessibilitycluster.com_20240303)
 
