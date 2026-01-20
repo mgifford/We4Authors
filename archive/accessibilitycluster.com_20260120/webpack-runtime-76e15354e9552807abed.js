@@ -1,0 +1,3 @@
+<html><body><div style="background:#222;color:#fff;padding:8px 16px;font-size:1rem;text-align:center;z-index:9999;position:relative;box-shadow:0 2px 6px #0003;">
+        Snapshot <b>accessibilitycluster.com</b> from <a href="https://archive.org/web/" style="color:#ffd700;text-decoration:underline;">Archive.org</a> (Date: <b>2026-01-20</b>)
+    </div>!function(e){function t(t){for(var n,o,s=t[0],u=t[1],i=t[2],f=0,p=[];f</body></html>
