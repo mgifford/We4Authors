@@ -1,3 +1,4 @@
+---
 layout: default
 title: Demonstration event
 summary: Invitation for the online demonstration of the project’s accessibility features.

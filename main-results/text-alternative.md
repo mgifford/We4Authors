@@ -12,7 +12,7 @@ The feature can support web authors when uploading an image by:
 - giving clear guidance on when and how to write useful ALT-texts
 - offering AI-generated suggested ALT-texts that authors can adjust
 
-> Start here: [Main results](/main-results/) · [HISTORY.md](HISTORY.md)
+> Start here: [Main results](/main-results/) · [HISTORY.md](/HISTORY.md)
 
 Technical specification: [Technical specification - Text alternative (PDF)](/archive/Technical%20specification%20-%20Text%20alternative%20(We4Authors%20Cluster).pdf).
 
