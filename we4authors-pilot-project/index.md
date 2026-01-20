@@ -1,3 +1,4 @@
+---
 layout: default
 title: We4Authors pilot project
 summary: Background link to the original We4Authors pilot project.
