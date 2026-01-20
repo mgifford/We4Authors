@@ -6,7 +6,6 @@ permalink: pretty
 plugins: []
 exclude:
   - README.md
-  - HISTORY.md
   - Gemfile
   - Gemfile.lock
 markdown: kramdown
