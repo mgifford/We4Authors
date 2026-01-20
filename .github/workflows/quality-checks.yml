@@ -28,6 +28,7 @@ jobs:
       - name: Link check (internal only, archives skipped)
         run: |
           rm -rf _site/archive _site/_site-archive
+          ln -s . _site/We4Authors || true
           htmlproofer ./_site --assume-extension --disable-external --ignore-urls '/archive/'
 
       - name: Set up Node.js
