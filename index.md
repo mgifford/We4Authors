@@ -12,7 +12,7 @@ We4Authors is an EU-funded pilot led by Funka to make accessibility the default 
 
 The goal: help web authors publish accessible content from the start, reducing remediation costs and improving compliance with the Web Accessibility Directive.
 
-### What’s new in this refresh
+## What’s new in this refresh
 
 - 2024 snapshot pages for the ten prototyped accessibility features, each linked to mirrored technical specification PDFs.
 - 2022 snapshot content transcribed into Markdown for long-term preservation.

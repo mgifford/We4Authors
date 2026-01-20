@@ -1,3 +1,4 @@
+---
 layout: default
 title: Contact us
 summary: How to reach the We4Authors Cluster team.
