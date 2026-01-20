@@ -7,16 +7,16 @@ Publicly available references on **We4Authors** (“Pilot on web accessibility f
 - Scope: European pilot to make accessibility features the default option in authoring tools, spanning licensed and open-source CMSs used by public-sector bodies.
 - Duration & budget: May 2018–November 2019; €150,000. Partners named: Funka (leader), CTIC-W3C Spain (partner), with liaisons to EDF, ANEC, ERRIN.
 - References:
-	- What is We4Authors (budget, dates): /archive/funka.com_20260120/www.funka.com/en/projekt/we4authors/what-is-we4authors/index.html
-	- Main objectives: /archive/funka.com_20260120/www.funka.com/en/projekt/we4authors/what-is-we4authors/we4authors-main-objectives/index.html
-	- Partnership: /archive/funka.com_20260120/www.funka.com/en/projekt/we4authors/what-is-we4authors/the-we4authors-partnership/index.html
+	- What is We4Authors (budget, dates): {{ '/archive/funka.com_20260120/www.funka.com/en/projekt/we4authors/what-is-we4authors/index.html' | relative_url }}
+	- Main objectives: {{ '/archive/funka.com_20260120/www.funka.com/en/projekt/we4authors/what-is-we4authors/we4authors-main-objectives/index.html' | relative_url }}
+	- Partnership: {{ '/archive/funka.com_20260120/www.funka.com/en/projekt/we4authors/what-is-we4authors/the-we4authors-partnership/index.html' | relative_url }}
 
 ### October 2019: stakeholder workshops (Brussels)
 
 - Three workshops for end users, web authors, and industry, run with EDF, ANEC, ERRIN.
 - References: 
-	- Workshops overview: /archive/funka.com_20260120/www.funka.com/en/projekt/we4authors/we4authors-main-activities-and-results/workshops-on-accessible-content-management-systems/index.html
-	- Workshop presentations/outcomes: /archive/funka.com_20260120/www.funka.com/en/projekt/we4authors/we4authors-main-activities-and-results/workshops-on-accessible-content-management-systems/workshops/index.html
+	- Workshops overview: {{ '/archive/funka.com_20260120/www.funka.com/en/projekt/we4authors/we4authors-main-activities-and-results/workshops-on-accessible-content-management-systems/index.html' | relative_url }}
+	- Workshop presentations/outcomes: {{ '/archive/funka.com_20260120/www.funka.com/en/projekt/we4authors/we4authors-main-activities-and-results/workshops-on-accessible-content-management-systems/workshops/index.html' | relative_url }}
 
 ## 2019–2020: published outputs
 
