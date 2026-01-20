@@ -5,7 +5,6 @@ url: "https://mgifford.github.io"
 permalink: pretty
 plugins: []
 exclude:
-  - archive
   - README.md
   - HISTORY.md
   - Gemfile
