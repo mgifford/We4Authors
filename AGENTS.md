@@ -9,6 +9,8 @@ Operating notes for anyone migrating the archived accessibilitycluster.com snaps
 
 ## Migration rules
 - Do not delete or overwrite anything in `/archive/`.
+- Archives are read-only. Do not edit, move, or regenerate files under `/archive/` unless a task explicitly calls for updating an archived copy.
+- When using AI-assisted changes, ensure edits apply only to live Jekyll content; never apply automated changes to `/archive/` unless specifically requested.
 - Recreate each top-level page as Markdown under the site root using `layout: default` and keep slugs stable (e.g., `/main-results/`, `/about-cluster/`, `/invitation/`).
 - For subpages (e.g., `/main-results/user-needs/`), add either Markdown pages or temporary stubs that link to the archive until transcription is complete.
 - Maintain navigation entries in `_data/navigation.yml`; keep the archive entry visible.
