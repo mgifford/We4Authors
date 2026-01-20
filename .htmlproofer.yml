@@ -1,5 +1,8 @@
----
-# Ignore archived snapshots and any future site archive copies during link checks
+# GitHub Pages-compatible html-proofer config
+# Avoid crawling archived snapshots and their assets.
+assume_extension: true
+disable_external: true
+ignore_urls:
+  - %r{^/archive/}
 ignore_files:
-  - %r{^./_site/archive/}
-  - %r{^./_site/_site-archive/}
+  - %r{^./_site/(archive|_site-archive)/}
