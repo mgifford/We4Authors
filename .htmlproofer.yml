@@ -1,0 +1,5 @@
+---
+# Ignore archived snapshots and any future site archive copies during link checks
+ignore_files:
+  - %r{^./_site/archive/}
+  - %r{^./_site/_site-archive/}

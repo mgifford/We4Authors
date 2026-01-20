@@ -1,3 +1,4 @@
+---
 layout: default
 title: Selection of features
 summary: How stakeholder perspectives informed the choice of ten accessibility features.
@@ -13,7 +14,7 @@ We have analysed how different stakeholder perspectives can be used as a basis f
 - existing solutions
 - potential impact of built-in accessibility support by default.
 
-The mapping of user requirements with accessibility features was based on the pilot project results, surveys performed and tne experience of members in the consortium.
+The mapping of user requirements with accessibility features was based on the pilot project results, surveys performed and the experience of members in the consortium.
 
 The selection criteria cover a wide range of perspectives, from standards and end user needs to severity of accessibility fails and frequency of use. In the selection process, all stakeholder views were taken into account and balanced against the possible implementation across platforms.
 
@@ -34,6 +35,7 @@ The ten selected features to be tested are:
 - Testing of content of pages
 - Testing of the whole website
 
-[We4Authors Cluster Report on selected accessibility features, PDF (2,42 Mb), opens in new window](https://funka-my.sharepoint.com/:b:/p/funka/EYka19GewnZOqPU8CU-X3iQBp14MhGWLIgT6Yz4niwweqA?e=ZrJZK5)
+Archived source page: /archive/accessibilitycluster.com_20240303/main-results/selection-of-features/
 
-[We4Authors Cluster Information package for developers, PDF (766 kb), opens in new window](https://funka-my.sharepoint.com/:b:/p/funka/Eak3cDEFnahOq-eWBO4HikEBNYaj6drVpp_Rw7_SUVsCcw?e=xkbIk8)
+- Original PDF: We4Authors Cluster Report on selected accessibility features (SharePoint, may require access). [Archive link](https://web.archive.org/web/20210601000000*/https://funka-my.sharepoint.com/:b:/p/funka/EYka19GewnZOqPU8CU-X3iQBp14MhGWLIgT6Yz4niwweqA?e=ZrJZK5)
+- Original PDF: We4Authors Cluster Information package for developers (SharePoint, may require access). [Archive link](https://web.archive.org/web/20210601000000*/https://funka-my.sharepoint.com/:b:/p/funka/Eak3cDEFnahOq-eWBO4HikEBNYaj6drVpp_Rw7_SUVsCcw?e=xkbIk8)

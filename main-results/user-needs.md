@@ -1,3 +1,4 @@
+---
 layout: default
 title: User needs
 summary: User requirements gathered via survey, workshops, and partner input.
@@ -18,4 +19,6 @@ The major findings and conclusions of the results of the analysis and online sur
 - Instructions and support
 - Testing of accessibility
 
-[We4Authors Cluster Report on user needs, PDF (1,83 Mb), opens in new window](https://funka-my.sharepoint.com/:b:/p/funka/EYjauxl7ygZOg5rNufK1kYgBxZ1y3njGwmdwNFrviPg5uQ?e=hNeLXw)
+Archived source page: /archive/accessibilitycluster.com_20240303/main-results/user-needs/
+
+Original PDF: We4Authors Cluster Report on user needs (SharePoint, may require access). [Archive link](https://web.archive.org/web/20210601000000*/https://funka-my.sharepoint.com/:b:/p/funka/EYjauxl7ygZOg5rNufK1kYgBxZ1y3njGwmdwNFrviPg5uQ?e=hNeLXw)

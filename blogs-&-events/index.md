@@ -12,7 +12,7 @@ The promotion activities are an important part of the Cluster project with the o
 
 Explore the preserved subpages:
 
-- [External events](/archive/accessibilitycluster.com_20220601/blogs-&-events/external-events/index.html)
-- [Articles and blogs](/archive/accessibilitycluster.com_20220601/blogs-&-events/articles-and-blogs/index.html)
-- [Video interview](/archive/accessibilitycluster.com_20220601/blogs-&-events/video-interview/index.html)
-- [Social media](/archive/accessibilitycluster.com_20220601/blogs-&-events/social-media/index.html)
+- [External events](/blogs-&-events/external-events/)
+- [Articles and blogs](/blogs-&-events/articles-and-blogs/)
+- [Video interview](/blogs-&-events/video-interview/)
+- [Social media](/blogs-&-events/social-media/)
