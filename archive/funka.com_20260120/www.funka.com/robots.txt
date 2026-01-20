@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /sok
+Disallow: /no/sok
+Disallow: /en/search
+Disallow: /404

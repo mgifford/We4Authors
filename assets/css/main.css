@@ -1,0 +1,27 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: "Helvetica Neue", Arial, sans-serif; line-height: 1.6; color: #0f172a; background: #f7f8fb; }
+a { color: #0d5cab; text-decoration: none; }
+a:hover, a:focus { text-decoration: underline; }
+.skip-link { position: absolute; left: -999px; top: -999px; background: #0d5cab; color: #fff; padding: 0.75rem 1rem; z-index: 10; }
+.skip-link:focus { left: 1rem; top: 1rem; }
+.global-nav { display: flex; align-items: center; justify-content: space-between; padding: 1rem 1.5rem; background: #ffffff; border-bottom: 1px solid #d0d7de; position: sticky; top: 0; z-index: 5; }
+.nav-brand { font-weight: 700; }
+.nav-list { list-style: none; display: flex; gap: 1rem; margin: 0; padding: 0; flex-wrap: wrap; }
+.nav-item a { padding: 0.25rem 0.5rem; border-radius: 4px; }
+.nav-item a[aria-current="page"] { background: #0d5cab; color: #fff; }
+.page { max-width: 960px; margin: 0 auto; padding: 2rem 1.25rem 3rem; background: #ffffff; box-shadow: 0 1px 3px rgba(15, 23, 42, 0.08); }
+.page-header { border-bottom: 1px solid #e2e8f0; margin-bottom: 1.5rem; padding-bottom: 0.5rem; }
+.page-header h1 { margin: 0 0 0.5rem; font-size: 2rem; }
+.page-body img { max-width: 100%; height: auto; border-radius: 8px; }
+.hero { border-radius: 8px; overflow: hidden; margin-bottom: 1rem; }
+.hero img { display: block; width: 100%; }
+.summary { color: #475569; font-size: 1.05rem; }
+.callout { padding: 1rem; background: #eaf2fb; border-left: 4px solid #0d5cab; margin: 1rem 0; border-radius: 4px; }
+.card-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1rem; }
+.card { padding: 1rem; border: 1px solid #e2e8f0; border-radius: 6px; background: #fdfefe; }
+.site-footer { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem; padding: 2rem 1.5rem; background: #0d5cab; color: #ffffff; }
+.site-footer a { color: #e2ecff; }
+@media (max-width: 640px) {
+  .global-nav { flex-direction: column; align-items: flex-start; gap: 0.75rem; }
+  .nav-list { width: 100%; }
+}

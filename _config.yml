@@ -1,0 +1,16 @@
+title: We4Authors Cluster
+description: Rebuilt from the June 2022 archive of accessibilitycluster.com
+baseurl: ""
+url: ""
+permalink: pretty
+plugins: []
+exclude:
+  - archive
+  - README.md
+  - HISTORY.md
+  - Gemfile
+  - Gemfile.lock
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  hard_wrap: false

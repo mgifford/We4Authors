@@ -14,6 +14,7 @@
 - Market analysis and benchmarking of CMS usage in EU public sector: https://www.funka.com/en/projekt/we4authors/we4authors-main-activities-and-results/market-analysis-and-benchmarking-process-of-existing-cms/
 - Workshops on accessible CMS with public sector, vendors, standard bodies, and users: https://www.funka.com/en/projekt/we4authors/we4authors-main-activities-and-results/workshops-on-accessible-content-management-systems/
 - Accessibility guidelines for CMS community, suppliers, and governments: https://www.funka.com/en/projekt/we4authors/we4authors-main-activities-and-results/accessibility-guidelines-for-the-cms-community-suppliers-and-public-governments/
+- Local mirror captured 2026-01-20: see [archive/funka.com_20260120/README.md](archive/funka.com_20260120/README.md) (offline We4Authors subtree from funka.com)
 
 ## GitHub issues mentioning We4Authors (sample)
 - Plone Classic: Allow/require ALT text on images (#2837): https://github.com/plone/Products.CMFPlone/issues/2837
