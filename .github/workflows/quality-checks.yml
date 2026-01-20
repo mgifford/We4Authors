@@ -26,7 +26,7 @@ jobs:
         run: jekyll build
 
       - name: Link check (internal only)
-        run: htmlproofer ./_site --assume-extension --ignore-urls "/archive/" --disable-external
+        run: htmlproofer ./_site --assume-extension --disable-external --ignore-urls '/archive/'
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
