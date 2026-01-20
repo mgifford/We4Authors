@@ -16,25 +16,25 @@ The goal: help web authors publish accessible content from the start, reducing r
 
 - 2024 snapshot pages for the ten prototyped accessibility features, each linked to mirrored technical specification PDFs.
 - 2022 snapshot content transcribed into Markdown for long-term preservation.
-- Mirrors of Funka’s We4Authors materials and issue references in [HISTORY.md](HISTORY.md).
+- Mirrors of Funka’s We4Authors materials and issue references in [HISTORY.md]({{ '/HISTORY.md' | relative_url }}).
 
 ### Explore
 
-- Main results overview: [Main results](/main-results/)
-- Feature presentations + specs (2024): [Presentation of the features](/main-results/presentation-of-the-features/)
+- Main results overview: [Main results]({{ '/main-results/' | relative_url }})
+- Feature presentations + specs (2024): [Presentation of the features]({{ '/main-results/presentation-of-the-features/' | relative_url }})
 - Individual features with local PDFs:
-  - [Change language](/main-results/change-language/)
-  - [Tables creator](/main-results/table-creator/)
-  - [Text alternative (ALT-text)](/main-results/text-alternative/)
-  - [Forms editor](/main-results/forms-editor/)
-  - [Video](/main-results/video/)
-  - [Documentation](/main-results/documentation/)
-  - [Live testing while authoring](/main-results/live-testing-while-authoring/)
-  - [Testing of documents](/main-results/testing-of-documents/)
-  - [Testing the content of pages](/main-results/testing-the-content-of-pages/)
-  - [Testing the whole website](/main-results/testing-the-whole-website/)
-- Project background: [About the Cluster](/about-cluster/)
-- History and references: [HISTORY.md](HISTORY.md)
+  - [Change language]({{ '/main-results/change-language/' | relative_url }})
+  - [Tables creator]({{ '/main-results/table-creator/' | relative_url }})
+  - [Text alternative (ALT-text)]({{ '/main-results/text-alternative/' | relative_url }})
+  - [Forms editor]({{ '/main-results/forms-editor/' | relative_url }})
+  - [Video]({{ '/main-results/video/' | relative_url }})
+  - [Documentation]({{ '/main-results/documentation/' | relative_url }})
+  - [Live testing while authoring]({{ '/main-results/live-testing-while-authoring/' | relative_url }})
+  - [Testing of documents]({{ '/main-results/testing-of-documents/' | relative_url }})
+  - [Testing the content of pages]({{ '/main-results/testing-the-content-of-pages/' | relative_url }})
+  - [Testing the whole website]({{ '/main-results/testing-the-whole-website/' | relative_url }})
+- Project background: [About the Cluster]({{ '/about-cluster/' | relative_url }})
+- History and references: [HISTORY.md]({{ '/HISTORY.md' | relative_url }})
 
 ### Technical specifications (mirrored PDFs)
 

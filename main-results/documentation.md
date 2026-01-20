@@ -6,7 +6,7 @@ summary: Presentation, video, and technical specification for the documentation 
 
 Documentation can be provided in context or separately. The recommended pattern is short contextual help paired with links to detailed guidance for authors who need more information.
 
-> Start here: [Main results](/main-results/) · [HISTORY.md](/HISTORY.md)
+> Start here: [Main results]({{ '/main-results/' | relative_url }}) · [HISTORY.md]({{ '/HISTORY.md' | relative_url }})
 
 Technical specification: [Technical specification - Documentation (PDF)]({{ site.baseurl }}/archive/Technical%20specification%20-%20Documentation%20(We4Authors%20Cluster).pdf).
 

@@ -11,7 +11,7 @@ The archived video documentation (2024-03-03 snapshot) covers:
 - feature solutions
 - resulting accessibility when the feature is used correctly
 
-> Start here: [Main results](/main-results/) · [HISTORY.md](/HISTORY.md)
+> Start here: [Main results]({{ '/main-results/' | relative_url }}) · [HISTORY.md]({{ '/HISTORY.md' | relative_url }})
 
 Technical specification: [Technical specification - Change language (PDF)]({{ site.baseurl }}/archive/Technical%20specification%20-%20Change%20language%20(We4Authors%20Cluster).pdf).
 

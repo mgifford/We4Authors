@@ -12,7 +12,7 @@ The promotion activities are an important part of the Cluster project with the o
 
 Explore the preserved subpages:
 
-- [External events](/blogs-&-events/external-events/)
-- [Articles and blogs](/blogs-&-events/articles-and-blogs/)
-- [Video interview](/blogs-&-events/video-interview/)
-- [Social media](/blogs-&-events/social-media/)
+- [External events]({{ '/blogs-&-events/external-events/' | relative_url }})
+- [Articles and blogs]({{ '/blogs-&-events/articles-and-blogs/' | relative_url }})
+- [Video interview]({{ '/blogs-&-events/video-interview/' | relative_url }})
+- [Social media]({{ '/blogs-&-events/social-media/' | relative_url }})

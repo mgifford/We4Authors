@@ -14,7 +14,7 @@ We4Authors Cluster is a multi-stakeholder project lead by Funka. The objective o
 ### Funka (project manager)
 Funka was started in the 1990s as a joint, non-profit initiative among all disability organisations in Sweden. The knowledge, staff and technology of the non profit was turned into a privately owned company in 2000. Today, we are market leaders in the field of accessibility and enjoy a close relationship to end user organisations, which ensures a unique level of quality control in everything we do.
 
-[Funka (archived 2026-01-20)](/archive/funka.com_20260120/www.funka.com/en/index.html)
+[Funka (archived 2026-01-20)]({{ '/archive/funka.com_20260120/www.funka.com/en/index.html' | relative_url }})
 
 ### Kitconcept (Plone)
 Kitconcept GmbH is an open source solution provider from Bonn, Germany with more than 20 years of experience in open source. They support companies, public institutions and other organizations in the technical implementation of websites, portals, intranets or mobile applications, based on powerful Open Source solutions. Kitconcept GmbH is the driving force behind the efforts to re-build Plone, an open source enterprise content management system, in ReactJS.
