@@ -8,6 +8,6 @@ This feature adds live accessibility checks inside the editor while publishing. 
 
 > Start here: [Main results](/main-results/) · [HISTORY.md](/HISTORY.md)
 
-Technical specification: [Technical specification - Live testing while authoring (PDF)](/archive/Technical%20specification%20-%20Live%20testing%20while%20authoring%20(We4Authors%20Cluster).pdf).
+Technical specification: [Technical specification - Live testing while authoring (PDF)]({{ site.baseurl }}/archive/Technical%20specification%20-%20Live%20testing%20while%20authoring%20(We4Authors%20Cluster).pdf).
 
 Original page: /archive/accessibilitycluster.com_20240303/main-results/live-testing-while-authoring/.

@@ -40,16 +40,16 @@ The goal: help web authors publish accessible content from the start, reducing r
 
 All specs are stored under /archive for offline use. Examples:
 
-- [Change language (archived PDF):](/archive/Technical%20specification%20-%20Change%20language%20(We4Authors%20Cluster).pdf)
-- [Tables creator (archived PDF):](/archive/Technical%20specification%20-%20Tables%20creator%20(We4Authors%20Cluster).pdf)
-- [Text alternative (archived PDF):](/archive/Technical%20specification%20-%20Text%20alternative%20(We4Authors%20Cluster).pdf)
-- [Forms editor (archived PDF):](/archive/Technical%20specification%20-%20Forms%20editor%20(We4Authors%20Cluster).pdf)
-- [Video (archived PDF):](/archive/Technical%20specification%20-%20Video%20(We4Authors%20Cluster).pdf)
-- [Documentation (archived PDF):](/archive/Technical%20specification%20-%20Documentation%20(We4Authors%20Cluster).pdf)
-- [Live testing while authoring (archived PDF):](/archive/Technical%20specification%20-%20Live%20testing%20while%20authoring%20(We4Authors%20Cluster).pdf)
-- [Testing of documents (archived PDF):](/archive/Technical%20specification%20-%20Testing%20of%20documents%20(We4Authors%20Cluster).pdf)
-- [Testing the content of pages (archived PDF):](/archive/Technical%20specification%20-%20Testing%20the%20content%20of%20pages%20(We4Authors%20Cluster).pdf)
-- [Testing the whole website (archived PDF):](/archive/Technical%20specification%20-%20Testing%20the%20whole%20website%20(We4Authors%20Cluster).pdf)
+- [Change language (archived PDF):]({{ site.baseurl }}/archive/Technical%20specification%20-%20Change%20language%20(We4Authors%20Cluster).pdf)
+- [Tables creator (archived PDF):]({{ site.baseurl }}/archive/Technical%20specification%20-%20Tables%20creator%20(We4Authors%20Cluster).pdf)
+- [Text alternative (archived PDF):]({{ site.baseurl }}/archive/Technical%20specification%20-%20Text%20alternative%20(We4Authors%20Cluster).pdf)
+- [Forms editor (archived PDF):]({{ site.baseurl }}/archive/Technical%20specification%20-%20Forms%20editor%20(We4Authors%20Cluster).pdf)
+- [Video (archived PDF):]({{ site.baseurl }}/archive/Technical%20specification%20-%20Video%20(We4Authors%20Cluster).pdf)
+- [Documentation (archived PDF):]({{ site.baseurl }}/archive/Technical%20specification%20-%20Documentation%20(We4Authors%20Cluster).pdf)
+- [Live testing while authoring (archived PDF):]({{ site.baseurl }}/archive/Technical%20specification%20-%20Live%20testing%20while%20authoring%20(We4Authors%20Cluster).pdf)
+- [Testing of documents (archived PDF):]({{ site.baseurl }}/archive/Technical%20specification%20-%20Testing%20of%20documents%20(We4Authors%20Cluster).pdf)
+- [Testing the content of pages (archived PDF):]({{ site.baseurl }}/archive/Technical%20specification%20-%20Testing%20the%20content%20of%20pages%20(We4Authors%20Cluster).pdf)
+- [Testing the whole website (archived PDF):]({{ site.baseurl }}/archive/Technical%20specification%20-%20Testing%20the%20whole%20website%20(We4Authors%20Cluster).pdf)
 
 ### AXSChat conversation
 

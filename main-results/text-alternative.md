@@ -14,6 +14,6 @@ The feature can support web authors when uploading an image by:
 
 > Start here: [Main results](/main-results/) · [HISTORY.md](/HISTORY.md)
 
-Technical specification: [Technical specification - Text alternative (PDF)](/archive/Technical%20specification%20-%20Text%20alternative%20(We4Authors%20Cluster).pdf).
+Technical specification: [Technical specification - Text alternative (PDF)]({{ site.baseurl }}/archive/Technical%20specification%20-%20Text%20alternative%20(We4Authors%20Cluster).pdf).
 
 Original page: /archive/accessibilitycluster.com_20240303/main-results/text-alternative-feature-%E2%80%93-presentation/.

@@ -8,6 +8,6 @@ Forms can be challenging for people with cognitive or motor impairments and for 
 
 > Start here: [Main results](/main-results/) · [HISTORY.md](/HISTORY.md)
 
-Technical specification: [Technical specification - Forms editor (PDF)](/archive/Technical%20specification%20-%20Forms%20editor%20(We4Authors%20Cluster).pdf).
+Technical specification: [Technical specification - Forms editor (PDF)]({{ site.baseurl }}/archive/Technical%20specification%20-%20Forms%20editor%20(We4Authors%20Cluster).pdf).
 
 Original page: /archive/accessibilitycluster.com_20240303/main-results/forms-editor/.
