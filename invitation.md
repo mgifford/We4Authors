@@ -18,6 +18,6 @@ The testing will be performed online and you will have the opportunity to impact
 
 The user testing is planned for October and each test will take approximately one hour. You are welcome to contribute once or during the whole iteration, and we are very keen to know your views on the features after the test.
 
-Please contact Jakob Hasslöw if you would like to participate and contribute to better accessibility support in authoring tools: <a href="mailto:Jakob.Hasslow@funka.com">Jakob.Hasslow@funka.com</a>.
+To participate or ask questions, please open an issue on the project repository: [We4Authors issues](https://github.com/mgifford/We4Authors/issues).
 
 > This invitation is transcribed from the June 1, 2022 snapshot of accessibilitycluster.com.

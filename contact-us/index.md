@@ -3,7 +3,7 @@ title: Contact us
 summary: How to reach the We4Authors Cluster team.
 ---
 
-If you would like more information about the project, don’t hesitate to contact us at [we4authors@funka.com](mailto:we4authors@funka.com).
+If you would like more information about the project, please open an issue on the GitHub repository: [We4Authors issues](https://github.com/mgifford/We4Authors/issues).
 
 ## Logos
 

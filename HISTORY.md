@@ -7,31 +7,31 @@ Publicly available references on **We4Authors** (“Pilot on web accessibility f
 - Scope: European pilot to make accessibility features the default option in authoring tools, spanning licensed and open-source CMSs used by public-sector bodies.
 - Duration & budget: May 2018–November 2019; €150,000. Partners named: Funka (leader), CTIC-W3C Spain (partner), with liaisons to EDF, ANEC, ERRIN.
 - References:
-	- What is We4Authors (budget, dates): https://www.funka.com/en/projekt/we4authors/what-is-we4authors/
-	- Main objectives: https://www.funka.com/en/projekt/we4authors/what-is-we4authors/we4authors-main-objectives/
-	- Partnership: https://www.funka.com/en/projekt/we4authors/what-is-we4authors/the-we4authors-partnership/
+	- What is We4Authors (budget, dates): /archive/funka.com_20260120/www.funka.com/en/projekt/we4authors/what-is-we4authors/index.html
+	- Main objectives: /archive/funka.com_20260120/www.funka.com/en/projekt/we4authors/what-is-we4authors/we4authors-main-objectives/index.html
+	- Partnership: /archive/funka.com_20260120/www.funka.com/en/projekt/we4authors/what-is-we4authors/the-we4authors-partnership/index.html
 
 ### October 2019: stakeholder workshops (Brussels)
 
 - Three workshops for end users, web authors, and industry, run with EDF, ANEC, ERRIN.
 - References: 
-	- Workshops overview: https://www.funka.com/en/projekt/we4authors/we4authors-main-activities-and-results/workshops-on-accessible-content-management-systems/
-	- Workshop presentations/outcomes: https://www.funka.com/en/projekt/we4authors/we4authors-main-activities-and-results/workshops-on-accessible-content-management-systems/workshops/
+	- Workshops overview: /archive/funka.com_20260120/www.funka.com/en/projekt/we4authors/we4authors-main-activities-and-results/workshops-on-accessible-content-management-systems/index.html
+	- Workshop presentations/outcomes: /archive/funka.com_20260120/www.funka.com/en/projekt/we4authors/we4authors-main-activities-and-results/workshops-on-accessible-content-management-systems/workshops/index.html
 
 ## 2019–2020: published outputs
 
 ### Market analysis and benchmarking
-- Landing page with methodology, PDFs, and dataset: https://www.funka.com/en/projekt/we4authors/we4authors-main-activities-and-results/market-analysis-and-benchmarking-process-of-existing-cms/
-- Methodology (PDF): https://www.funka.com/contentassets/5d9a29d756c9483998b00dc2e612510a/methodology_for_market_analysis.pdf
-- “Most spread authoring tools in public sector in EU” (PDF): https://www.funka.com/contentassets/5d9a29d756c9483998b00dc2e612510a/most_spread_authoring_tools_in_public_sector_in_eu.pdf
+- Landing page with methodology, PDFs, and dataset (archived): /archive/funka.com_20260120/www.funka.com/en/projekt/we4authors/we4authors-main-activities-and-results/market-analysis-and-benchmarking-process-of-existing-cms/index.html
+- Methodology (PDF, Wayback snapshot): https://web.archive.org/web/20210101000000/https://www.funka.com/contentassets/5d9a29d756c9483998b00dc2e612510a/methodology_for_market_analysis.pdf
+- “Most spread authoring tools in public sector in EU” (PDF, Wayback snapshot): https://web.archive.org/web/20210101000000/https://www.funka.com/contentassets/5d9a29d756c9483998b00dc2e612510a/most_spread_authoring_tools_in_public_sector_in_eu.pdf
 
 ### Collaboration with authoring tool producers
-- Prototypes and bilateral discussions; results fed into FEAT and Cluster: https://www.funka.com/en/projekt/we4authors/we4authors-main-activities-and-results/collaboration-with-tool-producers-elaboration-of-prototypes-and-testing/
+- Prototypes and bilateral discussions; results fed into FEAT and Cluster: /archive/funka.com_20260120/www.funka.com/en/projekt/we4authors/we4authors-main-activities-and-results/collaboration-with-tool-producers-elaboration-of-prototypes-and-testing/index.html
 
 ### Accessibility guidelines (three audiences)
-- Landing: https://www.funka.com/en/projekt/we4authors/we4authors-main-activities-and-results/accessibility-guidelines-for-the-cms-community-suppliers-and-public-governments/
-- Funka-hosted PDF: Public sector authorities: https://www.funka.com/contentassets/c43f6521e7354c9a8f82e62402f10aad/guidelines_for_public_sector_authorities.pdf
-- EC “newsroom” mirrors:
+- Landing (archived): /archive/funka.com_20260120/www.funka.com/en/projekt/we4authors/we4authors-main-activities-and-results/accessibility-guidelines-for-the-cms-community-suppliers-and-public-governments/index.html
+- Public sector authorities PDF (Wayback snapshot): https://web.archive.org/web/20210101000000/https://www.funka.com/contentassets/c43f6521e7354c9a8f82e62402f10aad/guidelines_for_public_sector_authorities.pdf
+- EC “newsroom” mirrors (still hosted by EC):
 	- Public sector authorities: https://ec.europa.eu/information_society/newsroom/image/document/2020-49/we4author_guidelines_for_public_sector_authorities_F8492051-BFDD-6B4C-96985A0D3CABAA1D_71395.pdf
 	- Authoring tools producers: https://ec.europa.eu/information_society/newsroom/image/document/2020-49/we4author_guidelines_for_authoring_tools_producers_F8459C35-D2B3-3F2A-0596D6A1A3BA459E_71393.pdf
 	- ICT suppliers: https://ec.europa.eu/information_society/newsroom/image/document/2020-49/we4author_guidelines_for_ict_suppliers_F847638D-0BB4-FB50-34E0ED25020E5481_71394.pdf
@@ -43,11 +43,11 @@ Publicly available references on **We4Authors** (“Pilot on web accessibility f
 
 ### FEAT (Features for accessibility through templates)
 - Period: March 2020–July 2021; funded by the European Parliament; Episerver used as model CMS; reusable templates for built-in accessibility.
-- Reference: https://www.funka.com/en/research-and-innovation/archive-research-projects/built-in-accessibility-offers-support-to-web-authors/
+- Reference (Wayback snapshot): https://web.archive.org/web/20210501000000/https://www.funka.com/en/research-and-innovation/archive-research-projects/built-in-accessibility-offers-support-to-web-authors/
 
 ### We4Authors Cluster (cross-CMS prototypes)
 - Ten accessibility-by-default features prototyped and user-tested. User tests ran December 2020–31 January 2021.
-- Reference (user testing site): https://www.funka.com/en/projekt/cluster-feature-testing/
+- Reference (user testing site, Wayback snapshot): https://web.archive.org/web/20201215000000/https://www.funka.com/en/projekt/cluster-feature-testing/
 - DrupalCon Europe 2020 session (10 Dec 2020) describing collaboration across Drupal, Plone, SiteVision, TinyMCE: https://events.drupal.org/europe2020/sessions/top-cms-tools-are-working-together-build-more-inclusive-world.html
 
 ### Procurement-focused summary (Futurium, 23 Aug 2021)

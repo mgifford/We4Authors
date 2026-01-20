@@ -20,6 +20,4 @@ The project results are going to be free for all to use and the aim is for all m
 
 The user testing is planned for October and each test will take approximately one hour. You are welcome to contribute once or during the whole iteration and we are of course very keen to know your views on the features after the test.
 
-Please contact Jakob Hasslöw if you would like to participate in the user testing and contribute to better accessibility support in authoring tools!
-
-[Jakob.Hasslow@funka.com](mailto:Jakob.Hasslow@funka.com)
+To participate or ask questions, please open an issue on the project repository: [We4Authors issues](https://github.com/mgifford/We4Authors/issues).
